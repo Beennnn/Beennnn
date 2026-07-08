@@ -53,7 +53,11 @@ and the Deebot ecosystem (robot-mower support), plus greenfield reverse engineer
 
 ### 🎹 Music
 
-Live keyboardist in a pop-rock band — and I build my own stage tooling:
+Live keyboardist in a 4-piece pop-rock band — I run the whole stage rig as versioned, recoverable code.
+**[live-rig](https://github.com/Beennnn/live-rig)** is the showcase: one keyboard, one Stream Deck surface,
+sounds + mixer + stage lights switched automatically per song (Stream Deck → Bome → Ableton, config-as-code).
+
+The tooling behind it, open-sourced:
 **[OpenLamp](https://github.com/openlamp)** (100% local stage-light control from a Stream Deck or MIDI —
 Tuya/WLED, sub-200 ms, zero cloud), [zone-m4l](https://github.com/Beennnn/zone-m4l) (Max for Live keyboard-split
 device), [swam-toolkit](https://github.com/Beennnn/swam-toolkit) & [als-wire](https://github.com/Beennnn/als-wire)
@@ -65,6 +69,7 @@ device), [swam-toolkit](https://github.com/Beennnn/swam-toolkit) & [als-wire](ht
 
 - 🦊 **GitLab** — [gitlab.com/iris-7](https://gitlab.com/iris-7) (the Iris-7 flagship, with its real CI) · [@benoit.besson](https://gitlab.com/benoit.besson) (member since 2022)
 - 🎛 **maxforlive.com** — [my devices](https://maxforlive.com/profile/user/Benoit) (publishing since 2019): [Zone](https://maxforlive.com/library/device/15717) and a TC-Helicon VoiceLive Touch 2 integration
+- 🎼 **MuseScore** — [scores I publish](https://musescore.com/user/39593079)
 - 💼 **LinkedIn** — [in/benoit-besson](https://www.linkedin.com/in/benoit-besson/)
 
 ---
