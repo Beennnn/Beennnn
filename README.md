@@ -69,7 +69,6 @@ device), [swam-toolkit](https://github.com/Beennnn/swam-toolkit) & [als-wire](ht
 
 - 🦊 **GitLab** — [gitlab.com/iris-7](https://gitlab.com/iris-7) (the Iris-7 flagship, with its real CI) · [@benoit.besson](https://gitlab.com/benoit.besson) (member since 2022)
 - 🎛 **maxforlive.com** — [my devices](https://maxforlive.com/profile/user/Benoit) (publishing since 2019): [Zone](https://maxforlive.com/library/device/15717) and a TC-Helicon VoiceLive Touch 2 integration
-- 🎼 **MuseScore** — [scores I publish](https://musescore.com/user/39593079)
 - 💼 **LinkedIn** — [in/benoit-besson](https://www.linkedin.com/in/benoit-besson/)
 
 ---
