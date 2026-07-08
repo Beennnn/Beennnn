@@ -1,0 +1,39 @@
+<svg width="1200" height="627" viewBox="0 0 1200 627" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f2f5f9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="627" fill="url(#bg)"/>
+  <!-- subtle inner border so the card keeps an edge on LinkedIn's white feed -->
+  <rect x="1.5" y="1.5" width="1197" height="624" fill="none" stroke="#e3e8ee" stroke-width="3"/>
+
+  <!-- text block -->
+  <text x="95" y="285" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="118" font-weight="700" fill="#1f2328">GitHub</text>
+  <text x="97" y="372" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="44" font-weight="500" fill="#1a7f37">github.com/Beennnn</text>
+  <text x="97" y="443" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="36" fill="#6e7781">code, open source &amp; side-projects</text>
+
+  <!-- commit graph (same topology as the dark version, colors tuned for light bg) -->
+  <g stroke-width="9" fill="none" stroke-linecap="round">
+    <!-- green branch: top dot down to blue node, then curve to bottom green dot -->
+    <path d="M 849 118 L 849 298" stroke="#2da44e"/>
+    <path d="M 849 298 C 849 380 949 400 949 518" stroke="#2da44e"/>
+    <!-- red branch curving into blue node -->
+    <path d="M 949 118 C 949 220 849 230 849 298" stroke="#e5534b"/>
+    <!-- blue trunk down -->
+    <path d="M 849 298 L 849 518" stroke="#3d8bfd"/>
+    <!-- purple branch: right top dot down, curve join near bottom -->
+    <path d="M 1049 185 L 1049 378" stroke="#a475f9"/>
+    <path d="M 1049 378 C 1049 470 949 460 949 518" stroke="#a475f9"/>
+  </g>
+  <g stroke="#ffffff" stroke-width="5">
+    <circle cx="849" cy="118" r="16" fill="#2da44e"/>
+    <circle cx="949" cy="118" r="16" fill="#e5534b"/>
+    <circle cx="1049" cy="185" r="16" fill="#a475f9"/>
+    <circle cx="849" cy="298" r="18" fill="#3d8bfd"/>
+    <circle cx="1049" cy="378" r="16" fill="#a475f9"/>
+    <circle cx="849" cy="518" r="16" fill="#3d8bfd"/>
+    <circle cx="949" cy="518" r="16" fill="#2da44e"/>
+  </g>
+</svg>
