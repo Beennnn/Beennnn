@@ -64,7 +64,7 @@ device), [swam-toolkit](https://github.com/Beennnn/swam-toolkit) & [als-wire](ht
 ---
 
 <p align="center">
-  <a href="https://github.com/search?q=user%3ABeennnn+topic%3Apro&type=repositories">💼 pro</a> ·
+  <a href="https://github.com/search?q=topic%3Apro+user%3ABeennnn+org%3Airis7-app&type=repositories">💼 pro</a> ·
   <a href="https://github.com/search?q=user%3ABeennnn+topic%3Ahome-assistant&type=repositories">🏠 home-assistant</a> ·
   <a href="https://github.com/search?q=user%3ABeennnn+topic%3Amusic&type=repositories">🎹 music</a>
 </p>
