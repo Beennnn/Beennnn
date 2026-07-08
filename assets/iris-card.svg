@@ -1,0 +1,31 @@
+<svg width="1200" height="627" viewBox="0 0 1200 627" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f6f3ef"/>
+    </linearGradient>
+    <linearGradient id="pulse" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f0b429" stop-opacity="0.25"/>
+      <stop offset="0.35" stop-color="#f76808"/>
+      <stop offset="0.75" stop-color="#f76808"/>
+      <stop offset="1" stop-color="#f0b429" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="627" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="1197" height="624" fill="none" stroke="#eae4dc" stroke-width="3"/>
+
+  <!-- text block -->
+  <text x="95" y="285" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="118" font-weight="700" fill="#241f3a">Iris-7</text>
+  <text x="97" y="372" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="44" font-weight="500" fill="#e8590c">gitlab.com/iris-7</text>
+  <text x="97" y="443" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="36" fill="#6e7781">vitrine d'ingénierie full-stack — SLOs &amp; OTel</text>
+
+  <!-- SLO band + heartbeat, same motif as the dark version -->
+  <text x="1080" y="182" text-anchor="end" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="30" font-weight="500" fill="#7a6ea8">SLO 99.9%</text>
+  <g stroke="#b3a8d1" stroke-width="4" stroke-dasharray="14 12" fill="none">
+    <line x1="800" y1="196" x2="1083" y2="196"/>
+    <line x1="845" y1="424" x2="1083" y2="424"/>
+  </g>
+  <path d="M 800 312 L 858 312 L 878 268 L 890 225 L 908 396 L 922 312 L 942 272 L 958 312 L 1083 312"
+        fill="none" stroke="url(#pulse)" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="908" cy="396" r="13" fill="#f76808" stroke="#ffffff" stroke-width="4"/>
+</svg>
